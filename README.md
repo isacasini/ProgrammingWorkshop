@@ -8,3 +8,4 @@ These tutorials target a beginner level programming audience, but do not aim to 
 - 001_Python_Setup (01.04.2025): This tutorial instructs the installation of Python via miniConda and the installation of VSCode.
 - 002_DataTypes (24.04.2025): This tutorial introduces different data types in Python.
 - 003_Plotting01 (29.05.2025): This tutorial introduces scatter plots with matplotlib.
+- 004_Plotting02 (26.06.2025): This tutorial introduces multiple axes with scatter plots with matplotlib.
