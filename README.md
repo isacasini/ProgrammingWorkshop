@@ -9,3 +9,5 @@ These tutorials target a beginner level programming audience, but do not aim to 
 - 002_DataTypes (24.04.2025): This tutorial introduces different data types in Python.
 - 003_Plotting01 (29.05.2025): This tutorial introduces scatter plots with matplotlib.
 - 004_Plotting02 (26.06.2025): This tutorial introduces multiple axes with scatter plots with matplotlib.
+- 004_Plotting03 (TBD): This tutorial introduces subplots and barcharts with matplotlib.
+
