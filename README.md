@@ -10,4 +10,5 @@ These tutorials target a beginner level programming audience, but do not aim to 
 - 003_Plotting01 (29.05.2025): This tutorial introduces scatter plots with matplotlib.
 - 004_Plotting02 (26.06.2025): This tutorial introduces multiple axes with scatter plots with matplotlib.
 - 005_Plotting03 (07.08.2025): This tutorial introduces subplots and barcharts with matplotlib.
+- 006_Github (04.09.2025): This tutorial introduces how to pull and run code from github.
 
