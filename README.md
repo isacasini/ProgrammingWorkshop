@@ -12,4 +12,5 @@ These tutorials target a beginner level programming audience, but do not aim to 
 - 005_Plotting03 (07.08.2025): This tutorial introduces subplots and barcharts with matplotlib.
 - 006_Github (04.09.2025): This tutorial introduces how to pull and run code from github.
 - 007_Heatmaps (02.10.2025): This tutorial introduces heatmaps.
+- 008_for_functions (30.10.2025): This tutorial introduces for loops and functions, then uses them for efficiently plotting heatmaps.
 
